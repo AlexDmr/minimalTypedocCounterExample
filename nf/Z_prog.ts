@@ -1,0 +1,5 @@
+import {SHOULD_BE_THERE} from "./f1";
+
+const Z_PROG_SHOULD_ALSO_NOT_BE_THERE = "ho no!";
+
+console.log(SHOULD_BE_THERE, Z_PROG_SHOULD_ALSO_NOT_BE_THERE);
